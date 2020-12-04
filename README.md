@@ -3,7 +3,7 @@ My first data science project, involving covid 19 dataset provided on kaggle, da
 
 # Results
 
-## Findings Visualized
+## Findings Overall
 
 ![](Results/newplot.png)
 ![](Results/newplot%20(1).png)
