@@ -1,5 +1,5 @@
 # Covid-19USA
-My first data science project, involving covid 19 dataset provided on kaggle, dataset may be outdated as of now. To best view the results, please run the code on kaggle not on jupyter notebook. Dataset used can be found [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
+My first data science project, involving covid 19 dataset provided on kaggle, dataset may be outdated as of now. Dataset used can be found [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 # Results
 
